@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/balkrishanmah17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balkrishanmah17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/balkrishan mahabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balkrishan mahabir" height="30" width="40" /></a>
-<a href="https://kaggle.com/balkrishan mahabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balkrishan mahabir" height="30" width="40" /></a>
-<a href="https://fb.com/balkrishan mahabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="balkrishan mahabir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/balkrishan-mahabir-3ab9b4180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/balkrishan-mahabir-3ab9b4180/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/balkrishanmahabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/balkrishanmahabir" height="30" width="40" /></a>
+<a href="https://fb.com/bal krishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bal krishan" height="30" width="40" /></a>
 <a href="https://instagram.com/balkrishanmahabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balkrishanmahabir" height="30" width="40" /></a>
 </p>
 
@@ -34,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balatrue&show_icons=true&locale=en&layout=compact" alt="balatrue" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balatrue&show_icons=true&locale=en" alt="balatrue" /></p>
+
