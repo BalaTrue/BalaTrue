@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **balkrishan.me17@nitp.ac.in**
 
-- 📄 Know about my experiences [www.linkedin.com/in/balkrishan-mahabir-3ab9b4180](www.linkedin.com/in/balkrishan-mahabir-3ab9b4180)
+- 📄 Know about my experiences [https://www.linkedin.com/in/balkrishan-mahabir-3ab9b4180/9b4180](https://www.linkedin.com/in/balkrishan-mahabir-3ab9b4180/9b4180)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
