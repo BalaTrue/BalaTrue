@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balatrue" alt="balatrue" /></a> </p>
 
-- 🔭 I’m currently working on **An outlook at data science job market in the U.S. in 2018 August.**
+- 🔭 I’m currently working on **Analysis of A Countrywide Traffic Accident Data set (2016 - 2020)**
 
 - 🌱 I’m currently learning **Machine learning, Deep learning & Artificial Intellegence**
 
